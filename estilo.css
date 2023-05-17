@@ -1,0 +1,33 @@
+#conteudo {
+    background: url("img/feijo2.png")no-repeat center;
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 10px;
+    left: 0;
+    padding: 40px;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+
+
+
+.btn1 {
+    background: red;
+    color: white;
+    border: none;
+    padding: 10px;
+    width: 150px;
+    height: 100px;
+    border-radius: 15px;
+}
+
+.btn {
+    background: black;
+    color: white;
+    border: none;
+    padding: 10px;
+    width: 100px;
+    border-radius: 5px;
+}
